@@ -1,0 +1,82 @@
+body {
+    overflow: hidden;
+    background-color:#ADC178;
+}
+h1 {
+    font-family: "Laro", serif;
+    font-size: 70px;
+    color: #6C584C;
+}
+h2 {
+    font-family: "Laro", serif;
+    font-size: 30px;
+    color: #6C584C;
+}
+h3 {
+    font-family: "Laro", serif;
+    font-size: 20px;
+    color: #000;
+    font-weight:100;
+}
+.title-container {
+    position: absolute;
+    left: -10vh;
+    top: 7vh;
+    width:500px;
+    height:90px;
+    background-color:#DDE5B6;
+}
+.life-name {
+    position: absolute;
+    left: 35vh;
+    top: -5vh;
+}
+
+.content-container {
+    overflow-y:scroll;
+    position: absolute;
+    width: 1200px;
+    height: 500px;
+    left: 15vh;
+    top: 25vh;
+    background-color:#DDE5B6;
+}
+.main-argument {
+    padding-left: 10px;
+}
+.point-1 {
+    padding-left: 10px;
+}
+.point-2 {
+    padding-left: 10px;
+}
+.point-3 {
+    padding-left: 10px;
+}
+.back-button {
+   position: absolute;
+   left: 60vh;
+   top: 7vh;
+    font-size: 80px;
+
+}
+
+a:link {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #6c584c;
+  }
+  
+  a:active {
+    text-decoration: none;
+    color: #000;
+  }
